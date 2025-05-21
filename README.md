@@ -18,7 +18,7 @@
 ---
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHVsMWJobG5pems2ZDd2eTd3MHh1cTk4MGV4MnExZzBqcTFrZnV1dyZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/daIfTnwGeY0J3zc1tg/giphy.gif" alt="GIF">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHVsMWJobG5pems2ZDd2eTd3MHh1cTk4MGV4MnExZzBqcTFrZnV1dyZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/daIfTnwGeY0J3zc1tg/giphy.gif" width="100" alt="GIF">
 </p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
