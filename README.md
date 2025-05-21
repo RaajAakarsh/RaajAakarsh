@@ -16,10 +16,6 @@
 - ✨ Fun fact: I love creating clean UIs & fixing stubborn bugs.
 
 ---
-
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHVsMWJobG5pems2ZDd2eTd3MHh1cTk4MGV4MnExZzBqcTFrZnV1dyZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/daIfTnwGeY0J3zc1tg/giphy.gif" width="100" alt="GIF">
-</p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/aakarsh-raaj-959a02257" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aakarsh-raaj-959a02257" height="30" width="40" /></a>
